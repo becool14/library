@@ -1,0 +1,13 @@
+English:
+This code demonstrates a simple Library Management System in C++ using Object-Oriented Programming (OOP) principles. The program consists of three main classes: Book, User, and Library.
+
+The Book class represents books with properties such as title, author, and ISBN. The User class represents library users with properties like name and user ID. The Library class is responsible for managing the books and users, and it contains methods for adding books and users, lending books to users, and returning books. It uses std::map containers to store books, users, and borrowed books information.
+
+In the main function, the code demonstrates how to add books and users to the library, as well as how to perform lending and returning operations. Exception handling is used to catch any errors that might occur during these operations.
+
+Polish:
+Ten kod przedstawia prosty system zarządzania biblioteką w C++ z wykorzystaniem zasad programowania obiektowego (OOP). Program składa się z trzech głównych klas: Book, User i Library.
+
+Klasa Book reprezentuje książki z właściwościami, takimi jak tytuł, autor i ISBN. Klasa User reprezentuje użytkowników biblioteki z właściwościami takimi jak imię i identyfikator użytkownika. Klasa Library odpowiada za zarządzanie książkami i użytkownikami, zawiera metody do dodawania książek i użytkowników, wypożyczania książek użytkownikom i ich zwracania. Używa kontenerów std::map do przechowywania informacji o książkach, użytkownikach i wypożyczonych książkach.
+
+W funkcji main kod pokazuje, jak dodać książki i użytkowników do biblioteki, a także jak wykonać operacje wypożyczania i zwracania. Obsługa wyjątków jest używana do przechwycenia błędów, które mogą wystąpić podczas tych operacji.
